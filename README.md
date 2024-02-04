@@ -1,9 +1,9 @@
 # PyShortURL
 
-## Desarrollo
+## Descripción 
 App sencilla que acorta URL´s
 
-## Instalacion
+## Instalación
 1- Clonar el Repositorio:
   git clone https://github.com/ignacioVillarreal2003/AcortadorURL.git
   cd PyShortURL
